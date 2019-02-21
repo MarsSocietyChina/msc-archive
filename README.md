@@ -1,6 +1,9 @@
 # msc-archive
 archive for resource doc
 
+[火星学会简介](https://github.com/MarsSocietyChina/msc-archive/issues/9)
+[罗伯特祖布林简介](https://github.com/MarsSocietyChina/msc-archive/blob/master/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E7%A5%96%E6%9F%8F%E6%9E%97%E5%8D%9A%E5%A3%AB-Dr.RobertZubrin-%E7%AE%80%E4%BB%8B.md)
+
 加入讨论 | Join the discussion here
 * https://github.com/MarsSocietyChina/msc-archive/issues/
 * http://www.marssociety.org/
