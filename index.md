@@ -57,7 +57,7 @@ the Mars Society China
 
 ## 火星学会全球 | Mars Society all over the world
 
-![image](https://user-images.githubusercontent.com/1320252/54231584-c0b93780-4543-11e9-8d09-ee64e0780236.png)
+![MarsSoceity-OvertheWorld](https://user-images.githubusercontent.com/1320252/54242437-8a89b100-455f-11e9-9864-6ef6d85a968b.png)
 
 [All over the world](http://chapters.marssociety.org/)
 * http://marssociety.org/
