@@ -1,7 +1,8 @@
 ![MSC-logo-tmp](https://user-images.githubusercontent.com/1320252/54235664-b8192f00-454c-11e9-9df2-5fb154fb6c42.jpg)
 
-# msc-archive
-archive for resource doc
+# 火星学会中国区
+
+the Mars Society China
 
 ## 关于 | About
 
