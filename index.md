@@ -43,6 +43,11 @@ archive for resource doc
 * [MARS CITY](https://www.mars-city.org/) is a program spearheaded by the Italian Mars Society (IMS)
 * 冷湖火星基地
 
+## 资源 | Resource
+
+* http://chapters.marssociety.org/chapter-docs/
+* http://marspapers.org/#/papers
+
 ## 火星学会全球 | Mars Society all over the world
 
 ![image](https://user-images.githubusercontent.com/1320252/54231584-c0b93780-4543-11e9-8d09-ee64e0780236.png)
@@ -54,6 +59,7 @@ archive for resource doc
 * https://marssociety.org.au/, Mars Society Australia
 * https://marssocietyuk.org/, UK
   * http://www.spaceflight-uk.com/MarsSociety/
+  * https://marssoc.wordpress.com/
 
 ## 加入讨论 | Join the discussion here
 * https://github.com/MarsSocietyChina/msc-archive/issues/
