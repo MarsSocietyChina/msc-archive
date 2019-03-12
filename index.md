@@ -49,6 +49,7 @@ archive for resource doc
 
 * http://chapters.marssociety.org/chapter-docs/
 * http://marspapers.org/#/papers
+* https://en.wikipedia.org/wiki/Mars_suit
 
 ## 火星学会全球 | Mars Society all over the world
 
