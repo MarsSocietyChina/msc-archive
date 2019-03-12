@@ -1,4 +1,4 @@
-![MSC-logo-tmp](https://user-images.githubusercontent.com/1320252/54235664-b8192f00-454c-11e9-9df2-5fb154fb6c42.jpg)
+![MSC-logo-tmp](https://user-images.githubusercontent.com/1320252/54236130-d7648c00-454d-11e9-826e-55717490b4c1.jpg)
 
 # 火星学会中国区
 
