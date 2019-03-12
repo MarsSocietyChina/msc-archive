@@ -36,6 +36,7 @@ archive for resource doc
 
 * http://www.marssociety.org/conventions/
   * [The 22nd Annual International Mars Society Convention](http://www.marssociety.org/conventions/2019/), Thursday-Sunday, October 17-20, 2019 on the campus of the University of Southern California (USC) in Los Angeles.
+* [https://oewf.org/en/emc17/](European Mars Conference 2017)
   
 ### 火星模拟基地 | 
 
