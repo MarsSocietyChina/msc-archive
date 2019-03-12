@@ -58,12 +58,13 @@ archive for resource doc
 * http://marssociety.org/
 * https://www.marsplanet.org/, Italy
   * http://ims-gsoc.org/about/
-* https://marssociety.org.au/, Mars Society Australia
 * https://marssocietyuk.org/, UK
   * http://www.spaceflight-uk.com/MarsSociety/
   * https://marssoc.wordpress.com/
 * [https://www.planete-mars-suisse.space/en/](Swiss branch of The Mars Society (TMS) and Association Planète Mars (French branch of TMS))
 * The [https://www.marssociety.de/en/](German Mars Society) (Mars Society Deutschland e.V. – MSD) was co-founded in 1998 together with the US Mars Society based on the Mars Society Founding Declaration, and was later-on registered  in Germany as a non-profit organization.
+* [http://peru.marssociety.org/](The Mars Society - Perú Chapter，火星学会秘鲁)
+* [https://marssociety.org.au/](Mars Society Australia)
 
 ## 加入讨论 | Join the discussion here
 * https://github.com/MarsSocietyChina/msc-archive/issues/
