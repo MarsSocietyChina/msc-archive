@@ -43,6 +43,7 @@ archive for resource doc
 * [Mars Desert Research Station (MDRS)](http://mdrs.marssociety.org/), in the Utah desert was established by the Mars Society in 2001.
 * [Flashline Mars Arctic Research Station (FMARS)](http://fmars.marssociety.org/), located in Nunavut, Canada, established in 2000.
 * [MARS CITY](https://www.mars-city.org/) is a program spearheaded by the Italian Mars Society (IMS)
+  * [MARS CITY’s software documentation](https://marscity.readthedocs.io/en/latest/)
 * 冷湖火星基地
 
 ## 资源 | Resource
