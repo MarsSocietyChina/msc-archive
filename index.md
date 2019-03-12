@@ -20,6 +20,7 @@ archive for resource doc
 * EU
   * http://roverchallenge.eu/
   * [European Rover Challenge stories (2018)](https://www.youtube.com/watch?v=DwlhqijfDC4)
+* [UK URC](https://marssoc.wordpress.com/ukurc/about-ukurc/)
 * Indian
   * http://marsrovermanipal.com/
   * http://marsrovermanipal.com/irc.html
@@ -60,6 +61,7 @@ archive for resource doc
 * https://marssocietyuk.org/, UK
   * http://www.spaceflight-uk.com/MarsSociety/
   * https://marssoc.wordpress.com/
+* The [https://www.marssociety.de/en/](German Mars Society) (Mars Society Deutschland e.V. – MSD) was co-founded in 1998 together with the US Mars Society based on the Mars Society Founding Declaration, and was later-on registered  in Germany as a non-profit organization.
 
 ## 加入讨论 | Join the discussion here
 * https://github.com/MarsSocietyChina/msc-archive/issues/
