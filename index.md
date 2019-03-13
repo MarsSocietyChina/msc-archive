@@ -74,14 +74,16 @@ the Mars Society China
 ## 加入讨论 | Join the discussion here
 
 ![430xmsc- -thumb](https://user-images.githubusercontent.com/1320252/51162755-5cc31b80-18d2-11e9-9bbb-82049c3c2b00.jpg)
+
 * Wechat, via the QRcode, or marssociety
 * [微博 | Weibo]
 * [知乎 | Zhihu](https://zhuanlan.zhihu.com/MarsSocietyChina)
+* [Bilibili](https://space.bilibili.com/406828030)
+* [百度盘](https://pan.baidu.com/s/1YKmt_7J9P2PaWJC1fbFieQ)
 * [GitHub](https://github.com/MarsSocietyChina/)
+  * [GitHub issues](https://github.com/MarsSocietyChina/msc-archive/issues/)
 * [Facebook](https://www.facebook.com/TheMarsSocietyInChina/)
   * [MSC Facebook Group](https://www.facebook.com/groups/1436006846654849/)
-
-* [GitHub issues](https://github.com/MarsSocietyChina/msc-archive/issues/)
 * http://www.marssociety.org/
 
 ![image](https://user-images.githubusercontent.com/1320252/51013779-4ef25b00-159f-11e9-8a84-129c039a5507.png)
