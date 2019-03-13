@@ -79,7 +79,7 @@ the Mars Society China
 * [微博 | Weibo]
 * [知乎 | Zhihu](https://zhuanlan.zhihu.com/MarsSocietyChina)
 * [Bilibili](https://space.bilibili.com/406828030)
-* [百度盘](https://pan.baidu.com/s/1YKmt_7J9P2PaWJC1fbFieQ)
+* [百度网盘](https://pan.baidu.com/s/1YKmt_7J9P2PaWJC1fbFieQ)
 * [GitHub](https://github.com/MarsSocietyChina/)
   * [GitHub issues](https://github.com/MarsSocietyChina/msc-archive/issues/)
 * [Facebook](https://www.facebook.com/TheMarsSocietyInChina/)
