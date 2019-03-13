@@ -72,6 +72,15 @@ the Mars Society China
 * [Mars Society Australia](https://marssociety.org.au/)
 
 ## 加入讨论 | Join the discussion here
+
+![430xmsc- -thumb](https://user-images.githubusercontent.com/1320252/51162755-5cc31b80-18d2-11e9-9bbb-82049c3c2b00.jpg)
+* Wechat, via the QRcode, or marssociety
+* [微博 | Weibo]
+* [知乎 | Zhihu](https://zhuanlan.zhihu.com/MarsSocietyChina)
+* [GitHub](https://github.com/MarsSocietyChina/)
+* [Facebook](https://www.facebook.com/TheMarsSocietyInChina/)
+  * [MSC Facebook Group](https://www.facebook.com/groups/1436006846654849/)
+
 * [GitHub issues](https://github.com/MarsSocietyChina/msc-archive/issues/)
 * http://www.marssociety.org/
 
